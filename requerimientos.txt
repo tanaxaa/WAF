@@ -1,0 +1,21 @@
+------------------------Librarias---------------------
+
+pip install scapy
+pip install flask
+pip install matplotlib
+pip install tkinter
+
+------------------------------------------------------
+
+Programa en fase de desarrollo, base para monitorear tareas y consultas en paginas web
+alojadas en servidores locales y servidores en la nube.
+
+Funciones en desarrollo como:
+
+LISTA NEGRA DE IP
+
+BLOQUEO AH CONSULTAS SQL
+
+DENEGACION CAPA 4
+
+ETC...….
